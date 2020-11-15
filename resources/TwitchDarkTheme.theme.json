@@ -508,7 +508,7 @@
         "exceptionForeground": "$validationWarningForeground"
       }
     },
-    "Window.border": "0,0,0,0,58585833",
+    "Window.border": "0,0,0,0,330c6e",
     "DebuggerPopup.borderColor": "$popupBorder",
     "Separator.separatorColor": "$separator",
     "SidePanel.background": "$toolWindowBackground",
