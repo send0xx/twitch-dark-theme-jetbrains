@@ -554,7 +554,7 @@
     "$validationWarningForeground": "#EDBA68",
     "$validationWarningFocus": "#DE971FA0",
     "$validationWarningFocusInactive": "#DE971F60",
-    "$validationInformativeBackground": "#154D4D",
+    "$validationInformativeBackground": "#0c5d5d",
     "$validationInformativeBorder": "#226868",
     "$validationInformativeForeground": "#61EDED",
     "$speedSearchBackground": "#A39254",
