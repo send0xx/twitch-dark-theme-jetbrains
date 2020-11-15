@@ -3,12 +3,11 @@
   <version>1.0</version>
   <vendor email="xpert.ru@gmail.com" url="https://github.com/send0xx">send0xx</vendor>
   <description><![CDATA[
-      This is Twitch brand colors inspired theme for your favorite Rider IDE
-      <br><br>
-      Editor scheme is based on Visual Studio Dark
+      This is Twitch brand colors inspired theme for your favorite IntelliJ IDE
     ]]></description>
   <change-notes><![CDATA[
-      Initial release (will be developed in future?)
+      1.0.1 Polished colors
+      1.0 Initial release
     ]]>
   </change-notes>
   <idea-version since-build="173.0"/>
