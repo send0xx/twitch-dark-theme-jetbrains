@@ -1,0 +1,21 @@
+<idea-plugin>
+  <name>Twitch Dark Theme</name>
+  <version>1.0</version>
+  <vendor email="xpert.ru@gmail.com" url="https://github.com/send0xx">send0xx</vendor>
+  <description><![CDATA[
+      This is Twitch brand colors inspired theme for your favorite Rider IDE
+      <br><br>
+      Editor scheme is based on Visual Studio Dark
+    ]]></description>
+  <change-notes><![CDATA[
+      Initial release (will be developed in future?)
+    ]]>
+  </change-notes>
+  <idea-version since-build="173.0"/>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="e5fdbc1a-e1c8-4e68-84c2-9b193fdcfeff" path="/TwitchDarkTheme.theme.json"/>
+  </extensions>
+  <actions>
+  </actions>
+</idea-plugin>
