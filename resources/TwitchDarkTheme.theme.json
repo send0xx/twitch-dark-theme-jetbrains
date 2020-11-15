@@ -58,7 +58,7 @@
       "background": "$speedSearchBackground",
       "borderColor": "$speedSearchBackground",
       "foreground": "#000000",
-      "errorForeground": "#8C1F1C"
+      "errorForeground": "#ff8280"
     },
     "DefaultTabs": {
       "background": "$panelBackground",
@@ -557,9 +557,9 @@
     "$validationInformativeBackground": "#0c5d5d",
     "$validationInformativeBorder": "#226868",
     "$validationInformativeForeground": "#61EDED",
-    "$speedSearchBackground": "#A39254",
-    "$speedSearchMatchBackground": "#D4BC64",
-    "$searchMatchForeground": "#D4BC64",
+    "$speedSearchBackground": "#7954a3",
+    "$speedSearchMatchBackground": "#9364d4",
+    "$searchMatchForeground": "#9c64d4",
     "$iconGrayRegular": "#A5A5AB",
     "$iconGrayMuted": "#A5A5ABB2",
     "$iconGrayDisabled": "#A5A5AB66"
