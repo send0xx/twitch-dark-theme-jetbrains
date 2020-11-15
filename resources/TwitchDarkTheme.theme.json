@@ -69,7 +69,7 @@
     },
     "EditorTabs": {
       "borderColor": "$border",
-      "background": "$panelBackground",
+      "background": "$toolWindowBackground",
       "underlineColor": "$selectionUnderline",
       "inactiveUnderlineColor": "$selectionUnderlineInactive",
       "underlineHeight": 2,
@@ -531,7 +531,7 @@
     "$controlFocus": "#9147ff",
     "$popupBorder": "#141415",
     "$toolWindowBackground": "#18181b",
-    "$panelBackground": "#141415",
+    "$panelBackground": "#1f1f23",
     "$regularForeground": "#c0c0c6",
     "$mutedForeground": "#9999A8",
     "$disabledForeground": "#6A6A70",
