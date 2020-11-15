@@ -484,7 +484,7 @@
       "separatorColor": "$separator"
     },
     "TitlePane": {
-      "background": "$titleBackground",
+      "background": "$panelBackground",
       "inactiveBackground": "$panelBackground",
       "infoForeground": "$mutedForeground",
       "inactiveInfoForeground": "$disabledForeground"
@@ -515,7 +515,6 @@
     "OptionPane.background": "$panelBackground"
   },
   "colors": {
-    "$titleBackground": "#141415",
     "$selectionBackground": "#5c16c5",
     "$selectionBackgroundMuted": "#5c16c5",
     "$selectionUnderline": "#5c16c5",
