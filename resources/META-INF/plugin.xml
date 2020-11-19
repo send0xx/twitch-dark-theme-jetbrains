@@ -6,9 +6,9 @@
       Twitch brand colors inspired theme for your favorite IntelliJ IDE
     ]]></description>
   <change-notes><![CDATA[
-      1.0.2 Fixed editor and UI colors
-      1.0.1 Adding basic color scheme (UI/Editor)
-      1.0 Initial release
+      1.0.2 Fixed editor and UI colors<br>
+      1.0.1 Adding basic color scheme (UI/Editor)<br>
+      1.0 Initial release<br>
     ]]>
   </change-notes>
   <idea-version since-build="173.0"/>
