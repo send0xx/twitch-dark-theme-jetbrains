@@ -20,7 +20,7 @@
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="411c1c" />
+        <option name="BACKGROUND" value="351815" />
         <option name="ERROR_STRIPE_COLOR" value="664233" />
       </value>
     </option>
@@ -57,6 +57,12 @@
         <option name="FOREGROUND" value="ddc7f5" />
       </value>
     </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d1b3ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="9f9da2" />
@@ -82,12 +88,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="aa6dff" />
+        <option name="FOREGROUND" value="7fded4" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c8b3ec" />
+        <option name="FOREGROUND" value="cb82ea" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -97,14 +103,14 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d48b3c" />
+        <option name="FOREGROUND" value="e28551" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="AD7DEF" />
+        <option name="FOREGROUND" value="dedee3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -130,7 +136,17 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e78149" />
+        <option name="FOREGROUND" value="e28551" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="e28551" />
+      </value>
+    </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="BACKGROUND" value="483f27" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -144,7 +160,7 @@
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
         <option name="BACKGROUND" value="18181b" />
-        <option name="EFFECT_COLOR" value="26262c" />
+        <option name="EFFECT_COLOR" value="323239" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -164,12 +180,25 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1f1f23" />
-        <option name="EFFECT_COLOR" value="3e3e40" />
+        <option name="EFFECT_COLOR" value="3b3b44" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="b0b0b1" />
+        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="b580ff" />
+      </value>
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c8c8d0" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -179,14 +208,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.PROPERTY_IDENTIFIER">
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
       <value>
-        <option name="FOREGROUND" value="f0e5ff" />
+        <option name="FOREGROUND" value="e28551" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3d1552" />
+        <option name="BACKGROUND" value="15052e" />
         <option name="ERROR_STRIPE_COLOR" value="300053" />
       </value>
     </option>
@@ -199,8 +228,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="443259" />
-        <option name="EFFECT_COLOR" value="503c70" />
+        <option name="BACKGROUND" value="15052e" />
+        <option name="EFFECT_COLOR" value="6f4fa4" />
         <option name="ERROR_STRIPE_COLOR" value="61936f" />
       </value>
     </option>
@@ -221,7 +250,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="26262c" />
-        <option name="EFFECT_COLOR" value="3e3e40" />
+        <option name="EFFECT_COLOR" value="3b3b44" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

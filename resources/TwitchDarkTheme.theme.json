@@ -173,7 +173,7 @@
     },
     "ParameterInfo": {
       "background": "$panelBackground",
-      "currentOverloadBackground": "$selectionBackground",
+      "currentOverloadBackground": "$selectionBackgroundDarker",
       "borderColor": "$popupBorder",
       "foreground": "$regularForeground",
       "currentParameterForeground": "$selectionForeground",
@@ -252,7 +252,9 @@
     },
     "CompletionPopup": {
       "foreground": "$regularForeground",
-      "matchForeground": "$searchMatchForeground"
+      "matchForeground": "$searchMatchForeground",
+      "selectionBackground": "$selectionBackgroundDarker",
+      "selectionInactiveBackground": "$selectionBackgroundDarker"
     },
     "Label": {
       "background": "$panelBackground",
@@ -317,7 +319,7 @@
     },
     "Plugins": {
       "background": "$toolWindowBackground",
-      "lightSelectionBackground": "$selectionBackgroundMuted",
+      "lightSelectionBackground": "$selectionBackground",
       "SectionHeader": {
         "background": "$panelBackground",
         "foreground": "$regularForeground"
@@ -516,19 +518,19 @@
   },
   "colors": {
     "$selectionBackground": "#5c16c5",
-    "$selectionBackgroundMuted": "#5c16c5",
+    "$selectionBackgroundDarker": "#330c6e",
     "$selectionUnderline": "#5c16c5",
-    "$selectionBackgroundInactive": "#303030",
+    "$selectionBackgroundInactive": "#26262c",
     "$selectionUnderlineInactive": "#3b3b44",
     "$selectionForeground": "#EEEEEE",
     "$selectionForegroundInactive": "#EEEEEE",
     "$selectionToolWindowHeader": "#1f1f23",
-    "$border": "#141415",
+    "$border": "#1f1f23",
     "$controlBorder": "#424447",
     "$separator": "#2c2c2c",
     "$focusedBorder": "#9147ff",
     "$controlFocus": "#9147ff",
-    "$popupBorder": "#141415",
+    "$popupBorder": "#1f1f23",
     "$toolWindowBackground": "#18181b",
     "$panelBackground": "#1f1f23",
     "$regularForeground": "#c0c0c6",
@@ -537,11 +539,11 @@
     "$textInputBackground": "#303030",
     "$textInputBackgroundDisabled": "#383838",
     "$tabBackgroundSelected": "#2C2C2C",
-    "$linkRegular": "#a970ff",
+    "$linkRegular": "#d1b3ff",
     "$linkAccented": "#772ce8",
     "$buttonFace": "#424447",
-    "$notificationBackground": "#0d031c",
-    "$notificationBorder": "#0d031c",
+    "$notificationBackground": "#26262c",
+    "$notificationBorder": "#1f1f23",
     "$notificationForeground": "#f0e5ff",
     "$validationErrorBackground": "#592624",
     "$validationErrorBorder": "#753937",
