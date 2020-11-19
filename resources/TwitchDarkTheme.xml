@@ -3,10 +3,11 @@
     <property name="created">2020-11-15T19:08:27</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-11-19T22:50:00</property>
+    <property name="modified">2020-11-19T22:51:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
+    <option name="DOCUMENTATION_COLOR" value="26262c" />
     <option name="GUTTER_BACKGROUND" value="19191c" />
     <option name="INDENT_GUIDE" value="1f1f23" />
     <option name="LINE_NUMBERS_COLOR" value="9a66e5" />
