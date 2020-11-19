@@ -3,7 +3,7 @@
     <property name="created">2020-11-15T19:08:27</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-11-19T22:51:00</property>
+    <property name="modified">2020-11-19T23:30:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
@@ -12,13 +12,27 @@
     <option name="INDENT_GUIDE" value="1f1f23" />
     <option name="LINE_NUMBERS_COLOR" value="9a66e5" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cacaca" />
+    <option name="NOTIFICATION_BACKGROUND" value="330c6e" />
     <option name="RIGHT_MARGIN_COLOR" value="1f1f23" />
     <option name="SELECTED_INDENT_GUIDE" value="1f1f23" />
     <option name="SELECTED_TEARLINE_COLOR" value="3a393b" />
+    <option name="SELECTION_BACKGROUND" value="24094e" />
     <option name="TEARLINE_COLOR" value="313032" />
     <option name="VISUAL_INDENT_GUIDE" value="1f1f23" />
   </colors>
   <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="26262c" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="323239" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="351815" />
@@ -34,20 +48,26 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e58d44" />
+        <option name="FOREGROUND" value="ffa656" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="dd82f6" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2dc6c4" />
+        <option name="FOREGROUND" value="34e2df" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bfd645" />
+        <option name="FOREGROUND" value="d0e94c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="9f9da2" />
