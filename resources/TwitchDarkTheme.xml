@@ -142,7 +142,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
+        <option name="FOREGROUND" value="ac7bf5" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -314,7 +314,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cd201f" />
+        <option name="FOREGROUND" value="f14140" />
         <option name="EFFECT_COLOR" value="cb2b27" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
