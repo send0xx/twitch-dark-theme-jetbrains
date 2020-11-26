@@ -3,15 +3,16 @@
     <property name="created">2020-11-15T19:08:27</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-11-19T23:30:00</property>
+    <property name="modified">2020-11-26T21:00:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="141416" />
     <option name="DOCUMENTATION_COLOR" value="26262c" />
     <option name="GUTTER_BACKGROUND" value="19191c" />
     <option name="INDENT_GUIDE" value="1f1f23" />
     <option name="LINE_NUMBERS_COLOR" value="9a66e5" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cacaca" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d1b3ff" />
     <option name="NOTIFICATION_BACKGROUND" value="330c6e" />
     <option name="RIGHT_MARGIN_COLOR" value="1f1f23" />
     <option name="SELECTED_INDENT_GUIDE" value="1f1f23" />
@@ -68,6 +69,11 @@
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8787fa" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="9f9da2" />
@@ -80,7 +86,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d1b3ff" />
+        <option name="FOREGROUND" value="efeff1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -104,17 +110,17 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="b28cde" />
+        <option name="FOREGROUND" value="e6e6ea" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="8aded5" />
+        <option name="FOREGROUND" value="78d0ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d286f3" />
+        <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -122,16 +128,21 @@
         <option name="FOREGROUND" value="e6e6ea" />
       </value>
     </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="62e0ec" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ecaa77" />
+        <option name="FOREGROUND" value="e09f63" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d5d1db" />
+        <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -139,9 +150,19 @@
         <option name="FOREGROUND" value="9f9da2" />
       </value>
     </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e6e6ea" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="e1caee" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e6e6ea" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -155,9 +176,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ecaa77" />
+        <option name="FOREGROUND" value="e09f63" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -229,9 +251,19 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="7ad9ff" />
+      </value>
+    </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
       <value>
         <option name="FOREGROUND" value="e28551" />
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="78efe1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -278,6 +310,13 @@
       <value>
         <option name="BACKGROUND" value="412d2f" />
         <option name="ERROR_STRIPE_COLOR" value="8d4457" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cd201f" />
+        <option name="EFFECT_COLOR" value="cb2b27" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>

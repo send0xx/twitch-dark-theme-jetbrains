@@ -1,11 +1,12 @@
 <idea-plugin>
   <name>Twitch Dark Theme</name>
-  <version>1.0.7</version>
+  <version>1.1.0</version>
   <vendor email="ionkin.misha@gmail.com" url="https://github.com/send0xx">send0xx</vendor>
   <description><![CDATA[
       Twitch brand colors inspired theme for your favorite IntelliJ IDE
     ]]></description>
   <change-notes><![CDATA[
+      1.1.0 Changed editor color scheme<br>
       1.0.7 Changed plugin icon (again)<br>
       1.0.6 Changed plugin icon<br>
       1.0.5 Fixed change notes formatting<br>
