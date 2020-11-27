@@ -3,7 +3,7 @@
     <property name="created">2020-11-15T19:08:27</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-11-26T21:00:00</property>
+    <property name="modified">2020-11-27T16:00:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
@@ -115,7 +115,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="78d0ff" />
+        <option name="FOREGROUND" value="5eebf6" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -125,12 +125,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e6e6ea" />
+        <option name="FOREGROUND" value="6fc9ff" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="62e0ec" />
+        <option name="FOREGROUND" value="5eebf6" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -156,9 +156,7 @@
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="e1caee" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
@@ -253,7 +251,7 @@
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="7ad9ff" />
+        <option name="FOREGROUND" value="5eebf6" />
       </value>
     </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
@@ -263,7 +261,7 @@
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="78efe1" />
+        <option name="FOREGROUND" value="5eebf6" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

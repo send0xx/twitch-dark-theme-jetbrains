@@ -162,7 +162,7 @@
     "List": {
       "background": "$toolWindowBackground",
       "foreground": "$regularForeground",
-      "selectionBackground": "$selectionBackground",
+      "selectionBackground": "$selectionBackgroundDarker",
       "selectionForeground": "$selectionForeground"
     },
     "Spinner": {
@@ -445,7 +445,7 @@
     "FileColor": {
       "Rose": "#52282e",
       "Orange": "#4f2f1f",
-      "Yellow": "#453c1d",
+      "Yellow": "#323420",
       "Green": "#25401a",
       "Blue": "#283857",
       "Violet": "#472a5e"
@@ -507,6 +507,7 @@
     "DebuggerPopup.borderColor": "$popupBorder",
     "Separator.separatorColor": "$separator",
     "SidePanel.background": "$toolWindowBackground",
+    "SearchOption.selectedBackground": "$buttonFace",
     "OptionPane.background": "$panelBackground"
   },
   "colors": {
