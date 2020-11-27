@@ -527,7 +527,7 @@
     "$selectionForegroundInactive": "#dedee3",
     "$selectionToolWindowHeader": "#1f1f23",
     "$border": "#1f1f23",
-    "$controlBorder": "#424447",
+    "$controlBorder": "#3e4042",
     "$separator": "#2c2c2c",
     "$focusedBorder": "#9147ff",
     "$controlFocus": "#9147ff",
