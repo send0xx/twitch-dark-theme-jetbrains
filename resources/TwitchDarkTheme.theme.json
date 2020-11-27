@@ -461,7 +461,14 @@
       "hoverColor": "$tabBackgroundSelected",
       "tabSelectionHeight": 3
     },
-    "VersionControl": {},
+    "VersionControl": {
+      "Log": {
+          "Commit": {
+            "currentBranchBackground": "$toolWindowBackground",
+            "hoveredBackground": "$selectionBackgroundInactive"
+          }
+      }
+    },
     "Viewport": {
       "background": "$toolWindowBackground",
       "foreground": "$regularForeground"
@@ -524,7 +531,7 @@
     "$separator": "#2c2c2c",
     "$focusedBorder": "#9147ff",
     "$controlFocus": "#9147ff",
-    "$popupBorder": "#1f1f23",
+    "$popupBorder": "#26262c",
     "$toolWindowBackground": "#18181b",
     "$panelBackground": "#1f1f23",
     "$regularForeground": "#dedee3",
@@ -537,7 +544,7 @@
     "$linkAccented": "#dedee3",
     "$buttonFace": "#424447",
     "$notificationBackground": "#26262c",
-    "$notificationBorder": "#1f1f23",
+    "$notificationBorder": "#26262c",
     "$notificationForeground": "#f7f7f8",
     "$validationErrorBackground": "#592624",
     "$validationErrorBorder": "#753937",
