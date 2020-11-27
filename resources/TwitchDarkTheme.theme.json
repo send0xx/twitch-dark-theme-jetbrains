@@ -251,7 +251,7 @@
       "disabledForeground": "$disabledForeground"
     },
     "CompletionPopup": {
-      "foreground": "$regularForeground",
+      "foreground": "$mutedForeground",
       "matchForeground": "$searchMatchForeground",
       "selectionBackground": "$selectionBackgroundDarker",
       "selectionInactiveBackground": "$selectionBackgroundDarker"
@@ -260,7 +260,7 @@
       "background": "$panelBackground",
       "foreground": "$regularForeground",
       "disabledForeground": "$disabledForeground",
-      "infoForeground": "$mutedForeground"
+      "infoForeground": "$disabledForeground"
     },
     "ComboBox": {
       "foreground": "$regularForeground",
@@ -510,6 +510,7 @@
         "exceptionForeground": "$validationWarningForeground"
       }
     },
+
     "Window.border": "0,0,0,0,330c6e",
     "DebuggerPopup.borderColor": "$popupBorder",
     "Separator.separatorColor": "$separator",
@@ -561,7 +562,7 @@
     "$validationInformativeForeground": "#61EDED",
     "$speedSearchBackground": "#451093",
     "$speedSearchMatchBackground": "#dedee3",
-    "$searchMatchForeground": "#D1B3FF",
+    "$searchMatchForeground": "#fcfaff",
     "$iconGrayRegular": "#A5A5AB",
     "$iconGrayMuted": "#A5A5ABB2",
     "$iconGrayDisabled": "#A5A5AB66"
