@@ -560,7 +560,7 @@
     "$validationInformativeBorder": "#226868",
     "$validationInformativeForeground": "#61EDED",
     "$speedSearchBackground": "#451093",
-    "$speedSearchMatchBackground": "#a970ff",
+    "$speedSearchMatchBackground": "#dedee3",
     "$searchMatchForeground": "#D1B3FF",
     "$iconGrayRegular": "#A5A5AB",
     "$iconGrayMuted": "#A5A5ABB2",
