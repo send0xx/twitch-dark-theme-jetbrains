@@ -57,8 +57,8 @@
     "SpeedSearch": {
       "background": "$speedSearchBackground",
       "borderColor": "$speedSearchBackground",
-      "foreground": "#000000",
-      "errorForeground": "#ff8280"
+      "foreground": "$regularForeground",
+      "errorForeground": "#ff9393"
     },
     "DefaultTabs": {
       "background": "$panelBackground",
