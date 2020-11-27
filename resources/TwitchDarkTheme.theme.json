@@ -37,8 +37,8 @@
         "selectedForeground": "$selectionForeground"
       },
       "SearchField": {
-        "background": "$textInputBackground",
-        "borderColor": "$textInputBackground",
+        "background": "$textInputBackgroundDarker",
+        "borderColor": "$textInputBackgroundDarker",
         "infoForeground": "$disabledForeground"
       },
       "List": {
@@ -331,7 +331,7 @@
         "hoverBackground": "$tabBackgroundSelected"
       },
       "SearchField": {
-        "background": "$textInputBackground",
+        "background": "$textInputBackgroundDarker",
         "borderColor": "$panelBackground"
       },
       "Button": {
@@ -370,24 +370,24 @@
       "Actions.infoForeground": "$regularForeground"
     },
     "TextField": {
-      "background": "$textInputBackground",
+      "background": "$textInputBackgroundDarker",
       "foreground": "$regularForeground",
       "inactiveForeground": "$regularForeground"
     },
     "FormattedTextField": {
-      "background": "$textInputBackground",
+      "background": "$textInputBackgroundDarker",
       "foreground": "$regularForeground",
       "inactiveBackground": "$textInputBackground",
       "inactiveForeground": "$regularForeground"
     },
     "PasswordField": {
-      "background": "$textInputBackground",
+      "background": "$textInputBackgroundDarker",
       "foreground": "$regularForeground"
     },
     "TextArea": {
-      "background": "$textInputBackground",
+      "background": "$textInputBackgroundDarker",
       "foreground": "$regularForeground",
-      "inactiveBackground": "$textInputBackground",
+      "inactiveBackground": "$textInputBackgroundDarker",
       "inactiveForeground": "$regularForeground"
     },
     "ActionButton": {
@@ -538,8 +538,8 @@
     "$mutedForeground": "#adadb8",
     "$disabledForeground": "#6A6A70",
     "$textInputBackground": "#323239",
-    "$textInputBackgroundDisabled": "#26262c",
-    "$tabBackgroundSelected": "#2C2C2C",
+    "$textInputBackgroundDarker": "#26262c",
+    "$tabBackgroundSelected": "#26262c",
     "$linkRegular": "#e6e6ea",
     "$linkAccented": "#dedee3",
     "$buttonFace": "#424447",
