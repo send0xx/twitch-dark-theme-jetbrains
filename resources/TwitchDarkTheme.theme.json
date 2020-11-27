@@ -319,7 +319,8 @@
     },
     "Plugins": {
       "background": "$toolWindowBackground",
-      "lightSelectionBackground": "$selectionBackground",
+      "lightSelectionBackground": "$selectionBackgroundInactive",
+      "hoverBackground": "$selectionBackgroundDarker",
       "SectionHeader": {
         "background": "$panelBackground",
         "foreground": "$regularForeground"
@@ -467,19 +468,11 @@
     },
     "WelcomeScreen": {
       "background": "$panelBackground",
-      "borderColor": "#FF0000",
       "separatorColor": "$separator",
-      "captionBackground": "#0000FF",
-      "captionForeground": "#FFFF00",
-      "footerBackground": "#FF00FF",
-      "footerForeground": "#00FFFF",
-      "headerBackground": "#800000",
-      "headerForeground": "#008000",
-      "groupIconBorderColor": "#000080",
+      "SidePanel.background": "$panelBackground",
+      "Details.background": "$toolWindowBackground",
       "Projects": {
-        "background": "$toolWindowBackground",
-        "selectionBackground": "$selectionBackground",
-        "selectionInactiveBackground": "$selectionBackgroundInactive"
+        "background": "$panelBackground"
       }
     },
     "Group": {
@@ -518,7 +511,7 @@
   },
   "colors": {
     "$selectionBackground": "#5c16c5",
-    "$selectionBackgroundDarker": "#330c6e",
+    "$selectionBackgroundDarker": "#323239",
     "$selectionUnderline": "#5c16c5",
     "$selectionBackgroundInactive": "#26262c",
     "$selectionUnderlineInactive": "#3b3b44",
