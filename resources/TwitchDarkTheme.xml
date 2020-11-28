@@ -3,7 +3,7 @@
     <property name="created">2020-11-15T19:08:27</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-11-28T01:00:00</property>
+    <property name="modified">2020-11-28T11:00:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
@@ -299,8 +299,21 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="b0b0b1" />
-        <option name="BACKGROUND" value="3b3b3b" />
+        <option name="FOREGROUND" value="adadb8" />
+        <option name="BACKGROUND" value="323239" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="adadb8" />
+        <option name="BACKGROUND" value="323239" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="adadb8" />
+        <option name="BACKGROUND" value="3b3b44" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
