@@ -6,7 +6,7 @@
     <property name="modified">2020-11-28T11:00:00</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="1d1d1d" />
+    <option name="CARET_ROW_COLOR" value="1f1f23" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141416" />
     <option name="DOCUMENTATION_COLOR" value="26262c" />
     <option name="GUTTER_BACKGROUND" value="19191c" />
@@ -358,8 +358,9 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cacaca" />
-        <option name="BACKGROUND" value="330c6e" />
+        <option name="BACKGROUND" value="1f1f23" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="53535f" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
