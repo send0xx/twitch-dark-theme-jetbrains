@@ -79,7 +79,7 @@
       "Button": {
         "selectedBackground": "$selectionBackgroundInactive",
         "selectedForeground": "$regularForeground",
-        "hoverBackground": "$toolWindowBackground"
+        "hoverBackground": "$tabBackgroundSelected"
       },
       "Header": {
         "borderColor": "$border",
