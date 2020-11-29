@@ -88,8 +88,8 @@
       },
       "HeaderTab": {
         "selectedInactiveBackground": "$panelBackground",
-        "hoverBackground": "$toolWindowBackground",
-        "hoverInactiveBackground": "$toolWindowBackground"
+        "hoverBackground": "$tabBackgroundSelected",
+        "hoverInactiveBackground": "$tabBackgroundSelected"
       }
     },
     "ScrollBar": {
