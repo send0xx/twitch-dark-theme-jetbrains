@@ -9,7 +9,7 @@
       "//background": "#FF0000",
       "//foreground": "#00FF00",
       "//borderColor": "#00FFFF",
-      "selectionBackground": "$selectionBackground",
+      "selectionBackground": "$selectionBackgroundAccent",
       "selectionForeground": "$selectionForeground",
       "selectionInactiveBackground": "$selectionBackgroundInactive",
       "selectionBackgroundInactive": "$selectionBackgroundInactive",
@@ -143,8 +143,8 @@
         "startBorderColor": "$controlFocus",
         "endBorderColor": "$controlFocus",
         "focusedBorderColor": "$controlFocus",
-        "startBackground": "$selectionBackground",
-        "endBackground": "$selectionBackground",
+        "startBackground": "$selectionBackgroundAccent",
+        "endBackground": "$selectionBackgroundAccent",
         "focusColor": "$controlFocus"
       }
     },
@@ -153,7 +153,7 @@
       "borderColor": "$controlBorder",
       "foreground": "$regularForeground",
       "buttonColor": "$controlBorder",
-      "onBackground": "$selectionBackground",
+      "onBackground": "$selectionBackgroundAccent",
       "onForeground": "$selectionForeground",
       "offBackground": "$buttonFace",
       "offForeground": "$mutedForeground",
@@ -162,7 +162,7 @@
     "List": {
       "background": "$toolWindowBackground",
       "foreground": "$regularForeground",
-      "selectionBackground": "$selectionBackgroundDarker",
+      "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground"
     },
     "Spinner": {
@@ -173,7 +173,7 @@
     },
     "ParameterInfo": {
       "background": "$panelBackground",
-      "currentOverloadBackground": "$selectionBackgroundDarker",
+      "currentOverloadBackground": "$selectionBackground",
       "borderColor": "$popupBorder",
       "foreground": "$regularForeground",
       "currentParameterForeground": "$selectionForeground",
@@ -227,7 +227,7 @@
     "MenuItem": {
       "background": "$panelBackground",
       "foreground": "$regularForeground",
-      "selectionBackground": "$selectionBackground",
+      "selectionBackground": "$selectionBackgroundAccent",
       "selectionForeground": "$selectionForeground",
       "acceleratorForeground": "$mutedForeground",
       "disabledForeground": "$disabledForeground"
@@ -235,7 +235,7 @@
     "CheckBoxMenuItem": {
       "background": "$panelBackground",
       "foreground": "$regularForeground",
-      "selectionBackground": "$selectionBackground",
+      "selectionBackground": "$selectionBackgroundAccent",
       "selectionForeground": "$selectionForeground",
       "acceleratorForeground": "$mutedForeground",
       "acceleratorSelectionForeground": "$selectionForeground",
@@ -244,7 +244,7 @@
     "RadioButtonMenuItem": {
       "background": "$panelBackground",
       "foreground": "$regularForeground",
-      "selectionBackground": "$selectionBackground",
+      "selectionBackground": "$selectionBackgroundAccent",
       "selectionForeground": "$selectionForeground",
       "acceleratorForeground": "$mutedForeground",
       "acceleratorSelectionForeground": "$selectionForeground",
@@ -253,8 +253,8 @@
     "CompletionPopup": {
       "foreground": "$mutedForeground",
       "matchForeground": "$searchMatchForeground",
-      "selectionBackground": "$selectionBackgroundDarker",
-      "selectionInactiveBackground": "$selectionBackgroundDarker"
+      "selectionBackground": "$selectionBackground",
+      "selectionInactiveBackground": "$selectionBackground"
     },
     "Label": {
       "background": "$panelBackground",
@@ -319,7 +319,7 @@
     },
     "Plugins": {
       "background": "$toolWindowBackground",
-      "lightSelectionBackground": "$selectionBackgroundDarker",
+      "lightSelectionBackground": "$selectionBackground",
       "hoverBackground": "$selectionBackgroundInactive",
       "SectionHeader": {
         "background": "$panelBackground",
@@ -402,7 +402,7 @@
       "stripeColor": "$textInputBackground",
       "gridColor": "$panelBackground",
       "sortIconColor": "$mutedForeground",
-      "lightSelectionBackground": "$selectionBackground",
+      "lightSelectionBackground": "$selectionBackgroundAccent",
       "lightSelectionForeground": "$selectionForeground",
       "lightSelectionInactiveBackground": "$selectionBackgroundInactive",
       "lightSelectionInactiveForeground": "$selectionForegroundInactive"
@@ -518,8 +518,8 @@
     "OptionPane.background": "$panelBackground"
   },
   "colors": {
-    "$selectionBackground": "#5c16c5",
-    "$selectionBackgroundDarker": "#323239",
+    "$selectionBackgroundAccent": "#5c16c5",
+    "$selectionBackground": "#323239",
     "$selectionBackgroundInactive": "#26262c",
     "$selectionUnderline": "#5c16c5",
     "$selectionUnderlineInactive": "#3b3b44",
