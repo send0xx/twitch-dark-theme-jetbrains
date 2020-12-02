@@ -160,7 +160,7 @@
       "disabledText": "$disabledForeground"
     },
     "List": {
-      "background": "$toolWindowBackground",
+      "background": "$panelBackground",
       "foreground": "$regularForeground",
       "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground"
