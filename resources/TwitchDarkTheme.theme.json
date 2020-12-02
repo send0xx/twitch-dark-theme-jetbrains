@@ -264,7 +264,7 @@
     },
     "ComboBox": {
       "foreground": "$regularForeground",
-      "background": "$textInputBackground",
+      "background": "$panelBackground",
       "disabledForeground": "$disabledForeground",
       "nonEditableBackground": "$textInputBackground",
       "ArrowButton.background": "$textInputBackground",
@@ -275,7 +275,7 @@
     "ComboBoxButton": {
       "background": "$textInputBackground"
     },
-    "ComboPopup.border": "1,1,1,1,585858",
+    "ComboPopup.border": "1,1,1,1,414142",
     "Tree": {
       "background": "$toolWindowBackground",
       "foreground": "$regularForeground",
