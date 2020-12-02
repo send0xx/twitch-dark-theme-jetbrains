@@ -309,6 +309,11 @@
         <option name="BACKGROUND" value="3b3b44" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="6bd5de" />
+      </value>
+    </option>
     <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
