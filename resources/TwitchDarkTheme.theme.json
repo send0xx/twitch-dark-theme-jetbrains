@@ -526,7 +526,7 @@
     "$selectionForeground": "#dedee3",
     "$selectionForegroundInactive": "#dedee3",
     "$controlBorder": "#414142",
-    "$border": "#2a2a2b",
+    "$border": "#2d2d2e",
     "$separator": "#2e2e2e",
     "$controlFocus": "#9147ff",
     "$popupBorder": "#2a2a2b",
