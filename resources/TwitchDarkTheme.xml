@@ -11,8 +11,8 @@
     <option name="DOCUMENTATION_COLOR" value="2d2d2e" />
     <option name="GUTTER_BACKGROUND" value="1a1a1a" />
     <option name="INDENT_GUIDE" value="1f1f23" />
-    <option name="LINE_NUMBERS_COLOR" value="5C5C5E" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="919194" />
+    <option name="LINE_NUMBERS_COLOR" value="5c5c5e" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="848494" />
     <option name="NOTIFICATION_BACKGROUND" value="330c6e" />
     <option name="RIGHT_MARGIN_COLOR" value="1f1f23" />
     <option name="SELECTED_INDENT_GUIDE" value="1f1f23" />
@@ -187,6 +187,8 @@
         <option name="FOREGROUND" value="e6e6ea" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="ddc7f5" />
@@ -380,8 +382,7 @@
     <option name="SASS_VARIABLE" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="15052e" />
-        <option name="ERROR_STRIPE_COLOR" value="300053" />
+        <option name="BACKGROUND" value="2e2e2e" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
