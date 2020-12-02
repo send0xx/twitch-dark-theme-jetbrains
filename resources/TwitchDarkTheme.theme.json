@@ -193,7 +193,7 @@
     },
     "PopupMenu": {
       "borderWidth": 1,
-      "borderInsets": "4,1,4,1",
+      "borderInsets": "2,1,2,1",
       "background": "$panelBackground",
       "translucentBackground": "$panelBackground",
       "foreground": "$regularForeground"
@@ -529,7 +529,7 @@
     "$border": "#2d2d2e",
     "$separator": "#2e2e2e",
     "$controlFocus": "#9147ff",
-    "$popupBorder": "#2a2a2b",
+    "$popupBorder": "#2d2d2e",
     "$toolWindowBackground": "#1e1e1f",
     "$panelBackground": "#232324",
     "$regularForeground": "#dedee3",
