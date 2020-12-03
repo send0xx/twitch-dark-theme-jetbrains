@@ -1,11 +1,12 @@
 <idea-plugin>
   <name>Twitch Dark Theme</name>
-  <version>1.2.0</version>
+  <version>1.2.1</version>
   <vendor email="ionkin.misha@gmail.com" url="https://github.com/send0xx">send0xx</vendor>
   <description><![CDATA[
       Twitch brand colors inspired theme for your favorite IntelliJ IDE
     ]]></description>
   <change-notes><![CDATA[
+      1.2.1 Action button darker color<br>
       1.2.0 The panels, colored in gray, for less stress on the eyes. Changed the color scheme of the editor (now less colors)<br>
       1.1.5 ToolWindow button hover/active change<br>
       1.1.4 Speed search, editor theme update. Plugin icon slight change<br>
