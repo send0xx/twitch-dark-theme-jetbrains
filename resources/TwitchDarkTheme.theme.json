@@ -135,8 +135,8 @@
       "startBorderColor": "$controlBorder",
       "endBorderColor": "$controlBorder",
       "focusedBorderColor": "$controlFocus",
-      "startBackground": "$buttonFace",
-      "endBackground": "$buttonFace",
+      "startBackground": "$buttonBackground",
+      "endBackground": "$buttonBackground",
       "shadowWidth": 0,
       "default": {
         "foreground": "$selectionForeground",
@@ -155,7 +155,7 @@
       "buttonColor": "$controlBorder",
       "onBackground": "$selectionBackgroundAccent",
       "onForeground": "$selectionForeground",
-      "offBackground": "$buttonFace",
+      "offBackground": "$buttonBackground",
       "offForeground": "$mutedForeground",
       "disabledText": "$disabledForeground"
     },
@@ -335,12 +335,12 @@
         "borderColor": "$panelBackground"
       },
       "Button": {
-        "installFillBackground": "$buttonFace",
+        "installFillBackground": "$buttonBackground",
         "installFillForeground": "$regularForeground",
-        "installBackground": "$buttonFace",
+        "installBackground": "$buttonBackground",
         "installBorderColor": "$border",
         "installForeground": "$regularForeground",
-        "updateBackground": "$buttonFace",
+        "updateBackground": "$buttonBackground",
         "updateBorderColor": "$border",
         "updateForeground": "$regularForeground"
       },
@@ -391,10 +391,10 @@
       "inactiveForeground": "$regularForeground"
     },
     "ActionButton": {
-      "hoverBackground": "$buttonFace",
-      "hoverBorderColor": "$buttonFace",
-      "pressedBackground": "$buttonFace",
-      "pressedBorderColor": "$controlBorder"
+      "hoverBackground": "$buttonBackgroundDarker",
+      "hoverBorderColor": "$buttonBackgroundDarker",
+      "pressedBackground": "$buttonBackgroundDarker",
+      "pressedBorderColor": "$buttonBackgroundDarker"
     },
     "Table": {
       "background": "$toolWindowBackground",
@@ -514,7 +514,7 @@
     "DebuggerPopup.borderColor": "$popupBorder",
     "Separator.separatorColor": "$separator",
     "SidePanel.background": "$toolWindowBackground",
-    "SearchOption.selectedBackground": "$buttonFace",
+    "SearchOption.selectedBackground": "$buttonBackgroundDarker",
     "OptionPane.background": "$panelBackground"
   },
   "colors": {
@@ -540,7 +540,8 @@
     "$tabBackgroundSelected": "#2d2d2e",
     "$linkRegular": "#e6e6ea",
     "$linkAccented": "#dedee3",
-    "$buttonFace": "#454547",
+    "$buttonBackground": "#454547",
+    "$buttonBackgroundDarker": "#3e3e40",
     "$notificationBackground": "#2a2a2b",
     "$notificationBorder": "#2b2b2b",
     "$notificationForeground": "#f7f7f8",
