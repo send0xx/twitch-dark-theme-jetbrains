@@ -515,7 +515,9 @@
     "Separator.separatorColor": "$separator",
     "SidePanel.background": "$toolWindowBackground",
     "SearchOption.selectedBackground": "$buttonBackgroundDarker",
-    "OptionPane.background": "$panelBackground"
+    "OptionPane.background": "$panelBackground",
+    "NewClass.SearchField.background": "$textInputBackgroundDarker",
+    "NewClass.Panel.background": "$panelBackground"
   },
   "colors": {
     "$selectionBackgroundAccent": "#5c16c5",
