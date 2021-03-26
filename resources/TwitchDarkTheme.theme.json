@@ -479,7 +479,10 @@
       "SidePanel.background": "$panelBackground",
       "Details.background": "$toolWindowBackground",
       "Projects": {
-        "background": "$panelBackground"
+        "background": "$panelBackground",
+        "actions": {
+          "background": "$buttonBackgroundDarker"
+        }
       }
     },
     "Group": {

@@ -1,15 +1,14 @@
  macOS
 .DS_Store
 
-# IntelliJ
 out/
-.idea/
-*.iml
 
-# Gradle
-.gradle/
-build/
-classes/
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
 
 # Output plugin file
 *.jar
