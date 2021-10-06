@@ -189,14 +189,22 @@
       "separatorColor": "$separator",
       "acceleratorForeground": "$mutedForeground",
       "acceleratorSelectionForeground": "$selectionForeground",
-      "disabledForeground": "$disabledForeground"
+      "disabledForeground": "$disabledForeground",
+      "submenuPopupOffsetX": -1
     },
     "PopupMenu": {
       "borderWidth": 1,
+      "leftBorderWith": 2,
+      "rightBorderWith": 2,
       "borderInsets": "2,1,2,1",
       "background": "$panelBackground",
       "translucentBackground": "$panelBackground",
       "foreground": "$regularForeground"
+    },
+    "PopupMenuSeparator": {
+      "height": 3,
+      "stripeIndent": 1,
+      "withToEdge": 0
     },
     "Popup": {
       "paintBorder": true,
