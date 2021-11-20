@@ -1,11 +1,12 @@
 <idea-plugin>
   <name>Twitch Dark Theme</name>
-  <version>1.2.4</version>
+  <version>1.2.5</version>
   <vendor email="ionkin.misha@gmail.com" url="https://github.com/send0xx">send0xx</vendor>
   <description><![CDATA[
       Twitch brand colors inspired theme for your favorite IntelliJ IDE
     ]]></description>
   <change-notes><![CDATA[
+      1.2.5 Fix selection background<br>
       1.2.4 Fix popup menu paddings and submenu offset<br>
       1.2.3 Fix Welcome Screen buttons<br>
       1.2.2 Color NewClass popup<br>

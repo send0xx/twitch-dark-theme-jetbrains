@@ -9,7 +9,7 @@
       "//background": "#FF0000",
       "//foreground": "#00FF00",
       "//borderColor": "#00FFFF",
-      "selectionBackground": "$selectionBackgroundAccent",
+      "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground",
       "selectionInactiveBackground": "$selectionBackgroundInactive",
       "selectionBackgroundInactive": "$selectionBackgroundInactive",
