@@ -6,8 +6,8 @@
   "ui": {
     "*": {
       "//*": "#FF00FF",
-      "//background": "#FF0000",
-      "//foreground": "#00FF00",
+      "background": "$panelBackground",
+      "foreground": "$regularForeground",
       "//borderColor": "#00FFFF",
       "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground",
@@ -268,7 +268,7 @@
       "background": "$panelBackground",
       "foreground": "$regularForeground",
       "disabledForeground": "$disabledForeground",
-      "infoForeground": "$disabledForeground"
+      "infoForeground": "$mutedForeground"
     },
     "ComboBox": {
       "foreground": "$regularForeground",
